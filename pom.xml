@@ -13,7 +13,7 @@
     <dropwizard.version>1.0.9</dropwizard.version>
     <jackson.version>2.9.5</jackson.version>
     <dep.dropwizard-metrics.version>3.1.4</dep.dropwizard-metrics.version>
-    <dep.jetty.version>9.3.20.v20170531</dep.jetty.version>
+    <dep.jetty.version>9.3.24.v20180605</dep.jetty.version>
   </properties>
 
   <dependencies>
